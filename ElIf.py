@@ -1,4 +1,6 @@
-letra = "i"
+letra = "O"
+
+print ("La letra es: "+letra.lower())
 
 if letra.lower() == "a":
     print("Esta vocal es la A")
