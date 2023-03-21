@@ -1,5 +1,7 @@
 edad = 15
 
+#hola coment
+
 if edad >= 18:
     print("Tu eres mayor de edad. Puedes tener DNI")
 else:
