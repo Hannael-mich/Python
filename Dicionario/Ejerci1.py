@@ -1,7 +1,3 @@
-#paisUsuario = input("¿De que pais deseas saber su capital? ")
-
-#print (paisUsuario)
-
 paises = {"Guatemala": "Ciudad de Guatemala", "El Salvador": "San Salvador",
            "Honduras": "Honduras","Nicaragua": "Managua", 
            "Costa Rica": "San Jose", "Panama": "Panama", "Argentina": "Buenos Aires", 

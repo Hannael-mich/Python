@@ -14,9 +14,10 @@ jugadores = {
 
 }
 
-usuario = int(input("Ingrese un numero de un jugador: "))
+'''usuario = int(input("Ingrese un numero de un jugador: "))
 
 if jugadores.get(usuario) == None:
     print("Ese numero no se encuentra entre los jugadores")
 else:
-    print(jugadores.get(usuario))
+    print(jugadores.get(usuario))'''
+
