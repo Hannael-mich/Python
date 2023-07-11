@@ -1,5 +1,5 @@
 
-'''def DNI(x):
+def DNI(x):
     dic = {"T":0, "R":1, "W":2, "A":3, "G":4, "M":5, "Y":6, "F":7, "P":8, "D":9, 
            "X":10, "B":11, "N":12, "J":13, "Z":14, "S":15, "Q":16, "V":17, "H":18,
              "L":19, "C":20, "K":21, "E":22}
@@ -56,15 +56,7 @@ while True:
     except:
         print("Ingrese un valor que sea correcto")
     finally:
-        print("Ha finalizado")'''
+        print("Ha finalizado")
 
-try:
-    raise Exception('spam', 'eggs')
-except Exception as inst:
-    print(type(inst))    # the exception type
-    print(inst.args)     # arguments stored in .args
-    print(inst)          # __str__ allows args to be printed directly,
-                         # but may be overridden in exception subclasses
-    x, y = inst.args     # unpack args
-    print('x =', x)
-    print('y =', y)
+
+
